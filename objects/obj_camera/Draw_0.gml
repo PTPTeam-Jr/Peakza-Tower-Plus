@@ -1,0 +1,1 @@
+draw_sprite(spr_hud, image_index, obj_player.x-300, obj_player.y-300);

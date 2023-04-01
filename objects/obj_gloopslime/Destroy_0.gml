@@ -1,0 +1,1 @@
+audio_play_sound(choose(luigioscream, luigioscream2, scream_R1, screamR2, screamR3, screamR4), 10, false);
